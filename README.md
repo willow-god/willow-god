@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/willow-god?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+![willow-god's GitHub stats](https://github-readme-stats.vercel.app/api?username=willow-god&show_icons=true&theme=shadow_green)
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
