@@ -1,6 +1,5 @@
-[<img src="https://raw.githubusercontent.com/willow-god/willow-god/main/intro.gif" alt="👋 Hi there! I'm (QingYa(111|ng Liu)|http://qingyang.eu.org)" title="👋 Hi there! I'm (QingYa(111|ng Liu)|http://qingyang.eu.org)"/>](http://qingyang.eu.org/)
+[<img src="https://raw.githubusercontent.com/willow-god/willow-god/main/intro.gif" alt="👋 Hi there! I'm (QingYa(111|ng Liu)|http://qingyang.eu.org)" title="👋 Hi there! I'm QingYang Liu|http://qingyang.eu.org)"/>](http://qingyang.eu.org/)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=wollow-god.willow-god&color=00cf00)
 <!--
 **wollow-god/wollow-god** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
