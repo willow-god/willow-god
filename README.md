@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
-<img src="https://www.diona.moe/github-stats/api?username=willow-god&show_icons=true&theme=shadow_blue" alt="willow-god's GitHub Stats" height="185px" width="430px"/> <img src="https://www.diona.moe/github-stats/api/top-langs?username=willow-god&layout=compact&langs_count=8&theme=shadow_blue" alt="willow-god's GitHub Top Langs" height="185px"  width="400px"/>
+<img src="https://www.diona.moe/github-stats/api?username=willow-god&show_icons=true&theme=shadow_blue" alt="willow-god's GitHub Stats" height="185px" width="420px"/> <img src="https://www.diona.moe/github-stats/api/top-langs?username=willow-god&layout=compact&langs_count=8&theme=shadow_blue" alt="willow-god's GitHub Top Langs" height="185px"  width="420px"/>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
