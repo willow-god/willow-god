@@ -71,7 +71,14 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
-<img src="https://www.diona.moe/github-stats/api?username=willow-god&show_icons=true&theme=shadow_blue" alt="willow-god's GitHub Stats" height="185px" width="400px"/> <img src="https://www.diona.moe/github-stats/api/top-langs?username=willow-god&layout=compact&langs_count=8&theme=shadow_blue" alt="willow-god's GitHub Top Langs" height="185px"  width="400px"/>
+---
+
+ <img src="https://www.diona.moe/github-stats/api/top-langs?username=willow-god&layout=compact&langs_count=8&theme=shadow_blue" alt="willow-god's GitHub Top Langs" height="217px"/><img src="https://www.diona.moe/github-stats/api?username=willow-god&show_icons=true&theme=shadow_blue" alt="willow-god's GitHub Stats" height="217px"/>
+
+---
+
+
+
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
@@ -88,3 +95,8 @@ Here are some ideas to get you started:
 - 𝙻𝚊𝚝𝚎𝚜𝚝 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝚙𝚘𝚜𝚝𝚜 𝚊𝚗𝚍 𝚠𝚎𝚊𝚝𝚑𝚎𝚛 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝](https://github.com/thmsgbrt/thmsgbrt)
 - 𝙰𝚕𝚕-𝚝𝚒𝚖𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚖𝚊𝚛𝚔𝚎𝚝𝚙𝚕𝚊𝚌𝚎/𝚊𝚌𝚝𝚒𝚘𝚗𝚜/𝚙𝚛𝚘𝚏𝚒𝚕𝚎-𝚛𝚎𝚊𝚍𝚖𝚎-𝚜𝚝𝚊𝚝𝚜](https://github.com/marketplace/actions/profile-readme-stats)
 -->
+
+## 📫 Count Persons:
+
+My ![Visitor Count](https://profile-counter.glitch.me/willow-god/count.svg) visitor
+
