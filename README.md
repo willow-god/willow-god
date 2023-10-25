@@ -38,12 +38,14 @@ Here are some ideas to get you started:
 </table>
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+---
 - 🖥 只会一点点的代码，这个页面还得多亏了大佬[Raymo111](https://github.com/Raymo111)的开源项目
 - 💼 正在进行一些项目，实现了一些小系统
 - 🎓 在武汉理工大学学习，将会于2025年毕业
 - 🌐 你可以在这里看看我的项目或者[gitee](https://gitee.com/willow-god)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+---
 - 🔨 正在老师的指导下进行一下项目，非常希望有些成果
 ```yaml
 - 虽然很菜
@@ -60,6 +62,7 @@ Here are some ideas to get you started:
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+---
 <!--START_SECTION:activity-->
 1. 🗣 创建了个人网站，虽然只是github page，但是很开心
 2. 🗣 个性化个人主页，虽然都是别人的代码，但是大佬很优秀，谢谢大佬开源项目
@@ -75,16 +78,14 @@ Here are some ideas to get you started:
 
  <img src="https://www.diona.moe/github-stats/api/top-langs?username=willow-god&layout=compact&langs_count=8&theme=shadow_blue" alt="willow-god's GitHub Top Langs" height="167px"/><img src="https://www.diona.moe/github-stats/api?username=willow-god&show_icons=true&theme=shadow_blue" alt="willow-god's GitHub Stats" height="167px"/>
 
----
-
-
-
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+---
 
 别来
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
+---
 - 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) <!-- Thanks to @matyo91's helpful comments in their profile README! -->
 - 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚜𝚒𝚝 𝚌𝚘𝚞𝚗𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝙽𝚊𝚝𝚑𝚊𝚗𝟷𝟹𝟾𝟾𝟾/𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝙱𝚊𝚍𝚐𝚎𝚁𝚎𝚕𝚘𝚊𝚍𝚎𝚍](https://github.com/Nathan13888/VisitorBadgeReloaded)
 - 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](https://yaytext.com/monospace/)
@@ -97,6 +98,7 @@ Here are some ideas to get you started:
 -->
 
 ## 📫 Count Persons:
+---
 
 My ![Visitor Count](https://profile-counter.glitch.me/willow-god/count.svg) visitor
 
