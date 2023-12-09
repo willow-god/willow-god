@@ -39,36 +39,34 @@ Here are some ideas to get you started:
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 ---
-- 🖥 只会一点点的代码，这个页面还得多亏了大佬[Raymo111](https://github.com/Raymo111)的开源项目
-- 💼 正在进行一些项目，实现了一些小系统
-- 🎓 在武汉理工大学学习，将会于2025年毕业
-- 🌐 你可以在这里看看我的项目或者[gitee](https://gitee.com/willow-god)
+- 🖥 Only a little bit of code, this page is thanks to the open-source project of boss [Raymo111](https://github.com/Raymo111).
+- 💼 I am working on some projects and have implemented some small systems. I will put most of the successful projects here.
+- 🎓 Study at Wuhan University of Technology and will graduate in 2025
+- 🌐 You can see all my projects here or on [gitee personal website](https://gitee.com/willow-god), which updates more slowly
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 ---
-- 🔨 正在老师的指导下进行一下项目，非常希望有些成果
-```yaml
-- 虽然很菜
-- 但是仍然在努力
-```
-- 🎯 在未来，我想要玩遍天下，不过这个梦想需要大量资金实现
-- 🤞 在未来的某一天，我想……
-	- 快快乐乐
-	- 开开心心
-	- 身体健康
-	- 吃穿不愁
-	- 工作稳定
-- 🤔 我正在忧愁，什么时候能搞出项目来
+- 🔨 I am working on the project under the guidance of the teacher, and I very much hope that some results will be achieved.
+- Although the level is not high, But I'm still trying.
+
+- 🎯 In the future, I want to play all over the world, but this dream requires a lot of money to realize, So my top priority is to find a job I love after graduation and work hard to make money
+- 🤞 Someday in the future, I want...
+	- Happy and happy
+	- Have fun and have fun
+	- Have fun.
+	- Don't worry about food and clothing
+	- stable job
+- 🤔 But now I'm worrying about when I can come up with a project due to my lack of level
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 ---
 <!--START_SECTION:activity-->
-1. 🗣 创建了个人网站，虽然只是github page，但是很开心
-2. 🗣 个性化个人主页，虽然都是别人的代码，但是大佬很优秀，谢谢大佬开源项目
-3. 🗣 上传一些自己的项目到这里，共享
-4. 🗣 继续搞我的网页和主页
-5. ❗ 做我的项目最重要！！！
+1. 🗣 Created a personal website, although it is just a github page, but very happy
+2. 🗣 Personalized personal homepage, although it is someone else's code, but the boss is very good, thank you boss open source project
+3. 🗣 Upload some of your own projects here and share them
+4. 🗣 Continue working on my project, webpage and homepage
+5. ❗ Doing my project is the most important thing!!!
 <!--END_SECTION:activity-->
 
 
@@ -76,13 +74,17 @@ Here are some ideas to get you started:
 
 ---
 
- <img src="https://www.diona.moe/github-stats/api/top-langs?username=willow-god&layout=compact&langs_count=8&theme=shadow_blue" alt="willow-god's GitHub Top Langs" height="167px"/><img src="https://www.diona.moe/github-stats/api?username=willow-god&show_icons=true&theme=shadow_blue" alt="willow-god's GitHub Stats" height="167px"/>
+here is my metrics, For entertainment only
+
+<img src="https://ghstats.diona.moe/?username=willow-god&show_icons=true&bg_color=30,fdfdfd,f6f6f6" alt="willow-god's GitHub Stats" height="185px" /> <img src="https://ghstats.diona.moe/top-langs?username=willow-god&layout=compact&langs_count=8&bg_color=30,fdfdfd,f6f6f6" alt="willow-god's GitHub Top Langs" height="1
+
+![Metrics](https://metrics.lecoq.io/willow-god?template=terminal&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=15&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSingapore)
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 ---
 
-别来
+I don't want anyone to contact me, after all, the level is limited, but if there is really any problem, you can send me an email: 2411457922@qq.com
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 ---
