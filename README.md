@@ -76,10 +76,7 @@ Here are some ideas to get you started:
 
 here is my metrics, For entertainment only
 
-<img src="https://ghstats.diona.moe/?username=willow-god&show_icons=true&bg_color=30,fdfdfd,f6f6f6" alt="willow-god's GitHub Stats" height="185px" /> <img src="https://ghstats.diona.moe/top-langs?username=willow-god&layout=compact&langs_count=8&bg_color=30,fdfdfd,f6f6f6" alt="willow-god's GitHub Top Langs" height="1
-
-![Metrics](https://metrics.lecoq.io/willow-god?template=terminal&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=15&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSingapore)
-
+<img src="https://ghstats.diona.moe/?username=willow-god&show_icons=true&bg_color=30,fdfdfd,f6f6f6" alt="willow-god's GitHub Stats" height="185px" /> <img src="https://ghstats.diona.moe/top-langs?username=willow-god&layout=compact&langs_count=8&bg_color=30,fdfdfd,f6f6f6" alt="willow-god's GitHub Top Langs" height="1>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 ---
