@@ -73,10 +73,13 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 ---
+* here is my metrics, For entertainment only
 
-here is my metrics, For entertainment only
+<img src="https://ghstats.diona.moe/?username=willow-god&show_icons=true&bg_color=30,fdfdfd,f6f6f6" alt="willow-god's GitHub Stats" height="225px" /> <img src="https://ghstats.diona.moe/top-langs?username=willow-god&layout=compact&langs_count=8&bg_color=30,fdfdfd,f6f6f6" alt="willow-god's GitHub Top Langs" height="225px" />
 
-<img src="https://ghstats.diona.moe/?username=willow-god&show_icons=true&bg_color=30,fdfdfd,f6f6f6" alt="willow-god's GitHub Stats" height="185px" /> <img src="https://ghstats.diona.moe/top-langs?username=willow-god&layout=compact&langs_count=8&bg_color=30,fdfdfd,f6f6f6" alt="willow-god's GitHub Top Langs" height="1>
+* here is my wakatime
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willow-god\&layout=compact)
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 ---
