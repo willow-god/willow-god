@@ -1,14 +1,17 @@
+**Read this in other languages:**  [English](README.md), [中文](README_zh.md).
+
 [<img src="https://raw.githubusercontent.com/willow-god/willow-god/main/page.gif" alt="👋 Hi there! I'm (QingYa(111|ng Liu)|http://qingyang.eu.org)" title="👋 Hi there! I'm QingYang Liu ,click to visit my page!!!"/>](http://qingyang.eu.org/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=willow-god.willow-god&color=00cf00)
 
 ## :bookmark: Frequently Used Links
 
-- 🪄 Personal Blog: [https://qingyang.eu.org](https://qingyang.eu.org/)
-- 🪄 Gitee: [My Gitee personal page](https://gitee.com/willow-god)
-- 🪄 Bilibili: [My Bilibili Page, Nothing](https://space.bilibili.com/1087600037?spm_id_from=333.1007.0.0)
-- 🪄 WangYiYun Music: [163.music](https://music.163.com/)
-- 🪄 Zhihu: [Zhihu](https://zhuanlan.zhihu.com)
+- 🪄 **Personal Blog:** [https://qingyang.eu.org](https://qingyang.eu.org/)
+- 🪄 **Gitee:** [My Gitee personal page](https://gitee.com/willow-god)
+- 🪄 **Bilibili:** [My Bilibili Page, Nothing](https://space.bilibili.com/1087600037?spm_id_from=333.1007.0.0)
+- 🪄 **WangYiYun Music:** [163.music](https://music.163.com/)
+- 🪄 **Zhihu:** [Zhihu](https://zhuanlan.zhihu.com)
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,16 +21,15 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🖥 Personal character: Cheerful and lively, love to study, hard work
-- 🖥 Personal ability: Computer vision，Deep learning, Artificial intelligence
-- 🖥 Personal information:
-    - 🧑 Name: QingYang Liu
-    - 🏫 School: WuHan University of Technology, [official website](https://www.whut.edu.cn/)
-    - 🏛️ Class: junior year
-    - 👷 Job: Student
-- 🖥 Hobbies: Computer, basketball, electronics, digital products, fans of Xiaomi
-- 🖥 Dream: Travel the world with my parents
-
+- 🖥 **Personal character:** Cheerful and lively, love to study, hard work
+- 🖥 **Personal ability:** Computer vision，Deep learning, Artificial intelligence
+- 🖥 **Personal information:**
+    - 🧑 **Name:** QingYang Liu
+    - 🏫 **School:** WuHan University of Technology, [official website](https://www.whut.edu.cn/)
+    - 🏛️ **Class:** junior year
+    - 👷 **Job:** Student
+- 🖥 **Hobbies:** Computer, basketball, electronics, digital products, fans of Xiaomi
+- 🖥 **Dream:** Travel the world with my parents
 
 <p align="center">
   <a>
@@ -45,7 +47,7 @@
 </p>
 
 
-## :arrow_up: ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## :arrow_up: 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
 - 🔨 I am working on the project under the guidance of the teacher, and I very much hope that some results will be achieved.
 - 🔨 Although the level is not high, But I'm still trying.
@@ -53,7 +55,7 @@
 - 🤞 Someday in the future, I want...
 	- Happy and happy
 	- Have fun and have fun
-	- Have fun.
+	- Have fun
 	- Don't worry about food and clothing
 	- stable job
 - 🤔 But now I'm worrying about when I can come up with a project due to my lack of level
