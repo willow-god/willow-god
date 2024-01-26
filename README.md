@@ -1,4 +1,9 @@
-**Read this in other languages:**  [English](README.md), [中文](README_zh.md).
+<p align="right">
+
+**[English](README.md), [中文](README_zh.md).**
+
+</p>
+
 
 [<img src="https://raw.githubusercontent.com/willow-god/willow-god/main/page.gif" alt="👋 Hi there! I'm (QingYa(111|ng Liu)|http://qingyang.eu.org)" title="👋 Hi there! I'm QingYang Liu ,click to visit my page!!!"/>](http://qingyang.eu.org/)
 
@@ -121,8 +126,8 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 - I don't want anyone to contact me, after all, the level is limited, but if there is really any problem, feel free to get in touch with me using the following methods:
 
    - **Email:** 2411457922@qq.com
-   - **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-   - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
+   - **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)(Not open yet)
+   - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)(Not open yet)
    - **Personal Website:** [My Personal Website](https://qingyang.eu.org)
 
 - Whether you have suggestions for my projects, technical inquiries, or any other questions, don't hesitate to reach out through any of the channels mentioned above. Looking forward to connecting with you!
