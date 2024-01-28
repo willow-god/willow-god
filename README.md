@@ -1,11 +1,11 @@
-<p align="right">
-**[English](README.md), [中文](README_zh.md).**
-</p>
-
-
 [<img src="https://raw.githubusercontent.com/willow-god/willow-god/main/page.gif" alt="👋 Hi there! I'm (QingYa(111|ng Liu)|http://qingyang.eu.org)" title="👋 Hi there! I'm QingYang Liu ,click to visit my page!!!"/>](http://qingyang.eu.org/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=willow-god.willow-god&color=00cf00)
+
+## ⚓ Choice Language:
+
+- 🖋️ You can choice English language: [English](README.md) 
+- 🖋️ 你也可以选择中文: [中文](README_zh.md)
 
 ## :bookmark: Frequently Used Links
 
