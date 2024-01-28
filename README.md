@@ -1,7 +1,5 @@
 <p align="right">
-
 **[English](README.md), [中文](README_zh.md).**
-
 </p>
 
 
@@ -20,7 +18,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,gcp,azure,react,vue,java,kotlin,nodejs,figma,js,html,css,wasm" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,gcp,azure,react" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,figma,js,html,css,wasm,vue,java,kotlin" />
   </a>
 </p>
 
@@ -92,7 +96,7 @@
   </a>
 </p>
 
-- ☀️ WikiTime:
+- ☀️ WakaTime:
 
 ```text
 Python     5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 %           ███        █████████  ███     ███
@@ -136,7 +140,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 
 - 👱 count persons:
 
-My ![Visitor Count](https://profile-counter.glitch.me/willow-god/count.svg) visitor
+![Visitor Count](https://profile-counter.glitch.me/willow-god/count.svg)
 
 - 📘 Quotes:
 
