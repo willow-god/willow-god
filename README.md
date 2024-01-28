@@ -18,15 +18,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,gcp,azure,react" />
+    <code><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,gcp,azure,react" /></code>
+    <code><img src="https://skillicons.dev/icons?i=nodejs,figma,js,html,css,wasm,vue,java,kotlin" /></code>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,figma,js,html,css,wasm,vue,java,kotlin" />
-  </a>
-</p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
@@ -62,11 +58,11 @@
 - 🔨 Although the level is not high, But I'm still trying.
 - 🎯 In the future, I want to play all over the world, but this dream requires a lot of money to realize, So my top priority is to find a job I love after graduation and work hard to make money
 - 🤞 Someday in the future, I want...
-	- Happy and happy
-	- Have fun and have fun
-	- Have fun
-	- Don't worry about food and clothing
-	- stable job
+	- 🚁 Happy and happy
+	- 🗂️ Have fun and have fun
+	- 🏁 Have fun
+	- 🩹 Don't worry about food and clothing
+	- 🥑 stable job
 - 🤔 But now I'm worrying about when I can come up with a project due to my lack of level
 
 <p align="center">
@@ -75,7 +71,7 @@
   </a>
 </p>
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+## ☢️ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 
 <!--START_SECTION:activity-->
 1. 🗣 Created a personal website, although it is just a github page, but very happy
