@@ -1,6 +1,4 @@
-[<img src="https://raw.githubusercontent.com/willow-god/willow-god/main/page.gif" alt="👋 Hi there! I'm (QingYa(111|ng Liu)|http://qingyang.eu.org)" title="👋 Hi there! I'm QingYang Liu ,click to visit my page!!!"/>](http://qingyang.eu.org/)
-
-![visitors](https://vbr.wocr.tk/badge?page_id=willow-god.willow-god&color=00cf00)
+[<img src="https://raw.githubusercontent.com/willow-god/willow-god/main/dd.gif" alt="👋 Hi there! I'm (QingYa(111|ng Liu)|http://qyliu.top)" title="👋 Hi there! I'm QingYang Liu ,click to visit my page!!!"/>](http://qyliu.top/)
 
 ## ⚓ Choice Language:
 
@@ -9,7 +7,7 @@
 
 ## :bookmark: Frequently Used Links
 
-- 🪄 **Personal Blog:** [https://qingyang.eu.org](https://qingyang.eu.org/)
+- 🪄 **Personal Blog:** [https://qyliu.top](https://qyliu.top/)
 - 🪄 **Gitee:** [My Gitee personal page](https://gitee.com/willow-god)
 - 🪄 **Bilibili:** [My Bilibili Page, Nothing](https://space.bilibili.com/1087600037?spm_id_from=333.1007.0.0)
 - 🪄 **WangYiYun Music:** [163.music](https://music.163.com/)
