@@ -51,8 +51,8 @@
 | Icon         | Name             | Link                                               |
 |--------------|------------------|----------------------------------------------------|
 | 🏠 Home      | 个人主页         | [https://www.qyliu.top/](https://www.qyliu.top/)  |
-| 🪄 Blog      | 个人博客         | [https://blog.qyliu.top](https://blog.qyliu.top) |
-||博客分站|[https://qingyang.eu.org](https://qingyang.eu.org)|
+| 🪄 Blog      | 个人博客         | [https://blog.qyliu.top/](https://blog.qyliu.top/) |
+|               | 博客分站         |[https://qingyang.eu.org/](https://qingyang.eu.org/)|
 | 📷 Gallery   | 生活相册         | [https://gallery.qyliu.top/](https://gallery.qyliu.top/) |
 | 🚀 Planet    | 盐焗星球         | [https://memos.qyliu.top/](https://memos.qyliu.top/) |
 | 🔥 Hot List  | 今日热榜         | [https://hot.qyliu.top/](https://hot.qyliu.top/) |
