@@ -1,6 +1,6 @@
 [<img src="./static/hello.png">](https://www.qyliu.top)
 
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""> 
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
 
 <a href="https://www.qyliu.top/">
   <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
