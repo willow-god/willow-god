@@ -1,17 +1,17 @@
-[<img src="./static/hello.png">](https://www.qyliu.top)
+[<img src="./static/hello.png">](https://www.liushen.fun)
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
 
-<a href="https://www.qyliu.top/">
+<a href="https://www.liushen.fun/">
   <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
 </a>
   <a href="mailto:01@liushen.fun">
   <img align="center" alt="柳神的邮箱" width="22px" src="./static/icon/email.svg" />
 </a>
-<a href="https://blog.qyliu.top">
+<a href="https://blog.liushen.fun">
   <img align="center" alt="个人博客" width="22px" src="./static/icon/blog.svg" />
 </a>
-<a href="https://gallery.qyliu.top">
+<a href="https://xc.liushen.fun">
   <img align="center" alt="柳神的个人相册" width="22px" src="./static/icon/gallery.svg" />
 </a>
 <a href="https://gitee.com/willow-god">
@@ -20,13 +20,13 @@
 <a href="https://www.github.com/willow-god">
   <img align="center" alt="github主页" width="22px" src="./static/icon/github.svg" />
 </a>
-<a href="https://memos.qyliu.top">
+<a href="https://m.liushen.fun">
   <img align="center" src="./static/icon/memos.svg" alt="个人说说页面" width="22px">
 </a>
 
 ### 👋 个人简介 
 ---
-[个人主页](https://www.qyliu.top) | [博客站点](https://blog.qyliu.top)
+[个人主页](https://www.liushen.fun) | [博客站点](https://blog.liushen.fun)
 
 大家好！这里是清羽飞扬的github主页。为什么说，叫清羽飞扬呢？因为“清扬”是我的名字，而“飞扬”代表着自由和轻盈，这与我的性格不谋而合。我是一个充满热情、富有同情心的人，喜欢与人交流，乐于分享我的想法和见解。在这里，我会分享我的一些开源代码和项目。希望我能给大家带来一些启发和乐趣。
 
@@ -50,14 +50,13 @@
 
 | Icon         | Name             | Link                                               |
 |--------------|------------------|----------------------------------------------------|
-| 🏠 Home      | 个人主页         | [https://www.qyliu.top/](https://www.qyliu.top/)  |
-| 🪄 Blog      | 个人博客         | [https://blog.qyliu.top/](https://blog.qyliu.top/) |
-|               | 博客分站         |[https://qingyang.eu.org/](https://qingyang.eu.org/)|
-| 📷 Gallery   | 生活相册         | [https://gallery.qyliu.top/](https://gallery.qyliu.top/) |
-| 🚀 Planet    | 盐焗星球         | [https://memos.qyliu.top/](https://memos.qyliu.top/) |
-| 🔥 Hot List  | 今日热榜         | [https://hot.qyliu.top/](https://hot.qyliu.top/) |
-| 📊 Statistics| 访客统计         | [https://visitor.qyliu.top/](https://visitor.qyliu.top/) |
-| 💾 Resources | 资源分享         | [https://alist.qyliu.top/](https://alist.qyliu.top/) |
+| 🏠 Home      | 个人主页         | [https://www.liushen.fun/](https://www.liushen.fun/)  |
+| 🪄 Blog      | 个人博客         | [https://blog.liushen.fun/](https://blog.liushen.fun/) |
+| 📷 Gallery   | 生活相册         | [https://xc.liushen.fun/](https://xc.liushen.fun/) |
+| 🚀 Planet    | 盐焗星球         | [https://m.liushen.fun/](https://m.liushen.fun/) |
+| 🔥 Hot List  | 今日热榜         | [https://hot.liushen.fun/](https://hot.liushen.fun/) |
+| 📊 Statistics| 访客统计         | [https://um.liushen.fun/](https://um.liushen.fun/) |
+| 💾 Resources | 资源分享         | [https://pan.liushen.fun/](https://pan.liushen.fun/) |
 | 🖼️ Image Bed | 自建图床         | [https://pic.qyliu.top/](https://pic.qyliu.top/) |
 | 🎨 Design    | 封面设计         | [https://cover.qyliu.top/](https://cover.qyliu.top/) |
 | 🖥️ Detection | 站点检测         | [https://listen.qyliu.top/](https://listen.qyliu.top/) |
@@ -69,6 +68,8 @@
 | ➕ Calculator| 在线计算器       | [https://calcium.qyliu.top/](https://calcium.qyliu.top/) |
 | 🅱️ BingAI    | BingAI           | [https://bingai.qyliu.top/](https://bingai.qyliu.top/) |
 | ☁️ Tencent   | 腾讯开发者    | [https://cloud.tencent.com/](https://cloud.tencent.com/developer/user/11136875) |
+| 💻 Gist      | 代码片段         | [https://gist.liushen.fun/](https://gist.liushen.fun/) |
+| 📝 Share     | 文本中转         | [https://share.liushen.fun/](https://share.liushen.fun/) |
 
 ### 🌟 性格方向 
 
@@ -88,11 +89,11 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-[<img src="./static/icons.png" alt="点击进入个人站点">](https://www.qyliu.top)
+[<img src="./static/icons.png" alt="点击进入个人站点">](https://www.liushen.fun)
 
 ### 👩🏻‍🏭 通用技能
 ---
-- **语言技能:** 英语
+- **语言技能:** 英语，汉语，陕西方言，安康方言，主打一个全能！
 - **办公技能:** Office、Excel、PowerPoint
 - **正在学习中**
 
@@ -118,7 +119,7 @@
 ### 🚀 我的github活动 
 ---
 <p align="center">
-  <a href="https://blog.qyliu.top">
+  <a href="https://blog.liushen.fun">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=willow-god&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
   </a>
 </p>
