@@ -20,8 +20,8 @@
 <a href="https://www.github.com/willow-god">
   <img align="center" alt="github主页" width="22px" src="./static/icon/github.svg" />
 </a>
-<a href="https://m.liushen.fun">
-  <img align="center" src="./static/icon/memos.svg" alt="个人说说页面" width="22px">
+<a href="https://mm.liushen.fun">
+  <img align="center" src="./static/icon/memos.svg" alt="提笔摘星" width="22px">
 </a>
 
 ### 👋 个人简介 
@@ -53,23 +53,20 @@
 | 🏠 Home      | 个人主页         | [https://www.liushen.fun/](https://www.liushen.fun/)  |
 | 🪄 Blog      | 个人博客         | [https://blog.liushen.fun/](https://blog.liushen.fun/) |
 | 📷 Gallery   | 生活相册         | [https://xc.liushen.fun/](https://xc.liushen.fun/) |
-| 🚀 Planet    | 盐焗星球         | [https://m.liushen.fun/](https://m.liushen.fun/) |
+| 🚀 Planet    | 提笔摘星         | [https://mm.liushen.fun/](https://mm.liushen.fun/) |
 | 🔥 Hot List  | 今日热榜         | [https://hot.liushen.fun/](https://hot.liushen.fun/) |
 | 📊 Statistics| 访客统计         | [https://um.liushen.fun/](https://um.liushen.fun/) |
 | 💾 Resources | 资源分享         | [https://pan.liushen.fun/](https://pan.liushen.fun/) |
 | 🖼️ Image Bed | 自建图床         | [https://pic.qyliu.top/](https://pic.qyliu.top/) |
 | 🎨 Design    | 封面设计         | [https://cover.qyliu.top/](https://cover.qyliu.top/) |
-| 🖥️ Detection | 站点检测         | [https://listen.qyliu.top/](https://listen.qyliu.top/) |
+| 🖥️ Detection | 站点检测         | [https://listen.liushen.fun/](https://listen.liushen.fun/) |
 | 📈 Busuanzi  | 不蒜子           | [https://busuanzi.qyliu.top/](https://busuanzi.qyliu.top/) |
 | 🧠 Mind Map  | 思维导图         | [https://mindmap.qyliu.top/](https://mindmap.qyliu.top/) |
-| 🔧 Toolbox   | IT工具箱         | [https://ittools.qyliu.top/](https://ittools.qyliu.top/) |
 | 📝 Whiteboard| 灵感白板         | [https://draw.qyliu.top/](https://draw.qyliu.top/) |
-| 🤖 GPT       | 自建GPT          | [https://chat.qyliu.top/](https://chat.qyliu.top/) |
-| ➕ Calculator| 在线计算器       | [https://calcium.qyliu.top/](https://calcium.qyliu.top/) |
-| 🅱️ BingAI    | BingAI           | [https://bingai.qyliu.top/](https://bingai.qyliu.top/) |
 | ☁️ Tencent   | 腾讯开发者    | [https://cloud.tencent.com/](https://cloud.tencent.com/developer/user/11136875) |
 | 💻 Gist      | 代码片段         | [https://gist.liushen.fun/](https://gist.liushen.fun/) |
 | 📝 Share     | 文本中转         | [https://share.liushen.fun/](https://share.liushen.fun/) |
+| 💌 Paste     | 在线粘贴         | [https://paste.430070.xyz/](https://paste.430070.xyz/) |
 
 ### 🌟 性格方向 
 
